@@ -1,4 +1,16 @@
+.menuCentral {
+  margin-left: 10em;
+  margin-right: 10em;
+  width: max-content-20em;
+}
 
+body {
+    background-image: url('fondo_edificiosv3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+} 
 
 /* ==========================================================================
    Author's custom styles

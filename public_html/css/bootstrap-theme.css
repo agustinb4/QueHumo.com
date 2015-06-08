@@ -280,11 +280,11 @@
   .navbar .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #fff;
-    background-image: -webkit-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
-    background-image:      -o-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
-    background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#2e6da4));
-    background-image:         linear-gradient(to bottom, #337ab7 0%, #2e6da4 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff2e6da4', GradientType=0);
+    background-image: -webkit-linear-gradient(top, #6BFE67 0%, #6BFE67 100%);
+    background-image:      -o-linear-gradient(top, #6BFE67 0%, #6BFE67 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#6BFE67), to(#6BFE67));
+    background-image:         linear-gradient(to bottom, #6BFE67 0%, #6BFE67 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#6BFE67', endColorstr='#6BFE67', GradientType=0);
     background-repeat: repeat-x;
   }
 }
